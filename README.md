@@ -5,7 +5,7 @@ This project aimed to help the company understand if they should implement this 
 
 
 ## Steps
-1. Wrangle Data
+1. Wrangle Data.
 
 2. In Part II, we assumed the old page was more effective or equally as effective at converting users than the new page (null hypothesis). 
 
