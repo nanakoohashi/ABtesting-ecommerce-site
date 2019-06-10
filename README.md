@@ -8,16 +8,14 @@ This project aimed to help the company understand if they should implement this 
 Windows 10
 
 ### Libraries
-pandas
-numpy
-matplotlib
-random
+- pandas
+- numpy
+- matplotlib
+- random
 
 ## Steps
 1. Wrangle Data.
-
 2. In Part II, we assumed the old page was more effective or equally as effective at converting users than the new page (null hypothesis). 
-
 3. In Part III, we used the logistic regression model to calculate the p-value. 
 
 We also introducted another factor into the regression model, the country in which a user lives. This was to avoid Simpson's Paradox and make sure there was consistency among test subjects in the control and experiment group. 
