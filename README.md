@@ -7,7 +7,7 @@ This project aimed to help the company understand if they should implement this 
 ### Dependencies
 Windows 10
 
-#### Libraries
+### Libraries
 pandas
 numpy
 matplotlib
