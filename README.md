@@ -5,7 +5,8 @@ This project aimed to help the company understand if they should implement this 
 
 ## Getting Started
 ### Dependencies
-Windows 10
+- Windows 10
+- Python 3
 
 ### Libraries
 - pandas
